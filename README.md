@@ -1,5 +1,5 @@
-1. build
+# build
 bash build.sh
 
-2. install
+# install
 bash install.sh
